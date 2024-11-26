@@ -1,5 +1,5 @@
-// Package goarabic contains utility functions for working with strings.
-package goarabic
+// Package gofarsi contains utility functions for working with strings.
+package gofarsi
 
 import "testing"
 

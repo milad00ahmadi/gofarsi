@@ -1,5 +1,5 @@
-// Package goarabic contains utility functions for working with Arabic strings.
-package goarabic
+// Package gofarsi contains utility functions for working with Arabic strings.
+package gofarsi
 
 import "strings"
 
